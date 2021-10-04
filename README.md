@@ -3,7 +3,7 @@
 
 Name of project : Music Player 
 
-Link of website : musicplayer-batool.netlify.app
+Link of website : https://musicplayer-batool.netlify.app/
 
 code link : https://github.com/batoolFatimaShaikh/Music-Player-batool
 
