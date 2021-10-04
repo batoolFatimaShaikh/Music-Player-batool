@@ -2,11 +2,19 @@
 
 
 Name of project : Music Player 
+
 Link of website : musicplayer-batool.netlify.app
+
+code link : https://github.com/batoolFatimaShaikh/Music-Player-batool
+
 Description : <what is your project about>
-Technologies Used: HTML, JS, CSS.
+  
+Technologies Used : HTML, JS, CSS.
+  
 Features : Bullet points [menu page, contact me page]
+  
 How to use it : <Double click on index.html>
+  
 Demo/Output : 
   ![Screenshot (84)](https://user-images.githubusercontent.com/87482863/135897084-63ce056c-bcc2-4d1c-a560-62c3c5ff47d5.png)
 
