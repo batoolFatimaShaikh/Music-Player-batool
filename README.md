@@ -7,13 +7,13 @@ Link of website : https://musicplayer-batool.netlify.app/
 
 code link : https://github.com/batoolFatimaShaikh/Music-Player-batool
 
-Description : <what is your project about>
+Description : 
   
 Technologies Used : HTML, JS, CSS.
   
-Features : Bullet points [menu page, contact me page]
+Features : 
   
-How to use it : <Double click on index.html>
+How to use it : 
   
 Demo/Output : 
   
