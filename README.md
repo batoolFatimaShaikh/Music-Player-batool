@@ -13,7 +13,7 @@ Description :
 
               Music players allow one to enjoy music in any browser.
               
-              I have be creating a music player with a clean and simple user interface that can be used to play music in the browser by using HTML,CSS.
+              I am creating a music player with a clean and simple user interface that can be used to play music in the browser by using HTML,CSS.
               
               I have implement features like previous forward  play and resume control by using JavaScript.
               
