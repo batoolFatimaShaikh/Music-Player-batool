@@ -27,6 +27,7 @@ Description :
 Technologies Used : HTML, JS, CSS.
   
 Features :
+           
            *added some animation 
 
            *prevoius button(for going on back song)
