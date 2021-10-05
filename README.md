@@ -7,7 +7,9 @@ Link of website : https://musicplayer-batool.netlify.app/
 
 code link : https://github.com/batoolFatimaShaikh/Music-Player-batool
 
-Description : As  Streaming Music adopted by many user and become the part of many life. 
+Description : 
+              
+              As  Streaming Music adopted by many user and become the part of many life. 
 
               Music players allow one to enjoy music in any browser.
               
@@ -24,7 +26,8 @@ Description : As  Streaming Music adopted by many user and become the part of ma
   
 Technologies Used : HTML, JS, CSS.
   
-Features : *added some animation 
+Features :
+           *added some animation 
 
            *prevoius button(for going on back song)
            
@@ -33,7 +36,9 @@ Features : *added some animation
            *play/pause button (for play or pause audio)
           
   
-How to use it : click on hosted link.<<
+How to use it : 
+
+                click on hosted link.<<
 
                 click on play/pause button to start/pause  audio.<<
                 
