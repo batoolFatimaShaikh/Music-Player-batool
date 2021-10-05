@@ -30,9 +30,9 @@ Features :
            
            *added some animation 
 
-           *prevoius button(for going on back song)
+           *previous button(for going on back song)
            
-           *forword button(for moving on next song)
+           *forward button(for moving on next song)
            
            *play/pause button (for play or pause audio)
           
