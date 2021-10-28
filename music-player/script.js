@@ -11,7 +11,7 @@
 const songs = [
     {
         name:"icon1" ,
-        title:"Stero" ,
+        title:"Stereo" ,
         artist:"gym class" ,
     },
     {
